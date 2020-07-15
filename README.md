@@ -4,3 +4,5 @@ Pulling together the Linux kickstart tree I've carried with me through many comp
 (note: started on Linux around `98 with Red Hat 5.2 being the first version I saw, so this probably originally worked before Enterprise, before Fedora Core)
 
 More info to come..  
+
+(some docs may be on thelinuxsource.org - need to verify what's there for kickstart)
